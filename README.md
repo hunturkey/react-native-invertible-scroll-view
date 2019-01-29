@@ -1,3 +1,8 @@
+###
+Combined latest main branch (1.1.1) with John's changes from version (1.1.0)
+https://github.com/johnchourajr/react-native-invertible-scroll-view
+###
+
 # InvertibleScrollView [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
 
 InvertibleScrollView is a React Native scroll view that can be inverted so that content is rendered starting from the bottom, and the user must scroll down to reveal more. This is a common design in chat applications and the command-line terminals. InvertibleScrollView also supports horizontal scroll views to present content from right to left.
